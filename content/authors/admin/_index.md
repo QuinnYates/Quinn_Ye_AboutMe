@@ -169,52 +169,57 @@ languages:
 # Awards
 awards:
   - title: FBE Graduate Research Abroad Traveling Scholarship
-    date: '2024'
+    year: '2024'
     awarder: University of Melbourne
     summary: |
       Travel funding scheme for graduate researchers.
   - title: The Melbourne Research Scholarship
-    date: '2019'
+    year: '2019'
     awarder: University of Melbourne
     summary: |
       Offered to high-achieving graduate research students at the University of Melbourne.
   - title: FBE Graduate Research Enhancement Grant
-    date: '2019'
+    year: '2019'
     awarder: University of Melbourne
     summary: | 
       Provides a \$15,000 AUD research enhancement grant for Ph.D. candidates.
   - title: PhD Best Paper Award
-    date: '2022'
+    year: '2022'
     awarder: Department of Management and Marketing, University of Melbourne
     summary: | 
       Awarded for the best Ph.D. paper.
   - title: FBE Graduate Research Abroad Travelling Scholarship
-    date: '2022'
+    year: '2022'
     awarder: University of Melbourne
     summary: | 
       Travel funding scheme for graduate researchers.
   - title: HEC Business Challenge Winner
-    date: '2017'
+    year: '2017'
     awarder: HEC Paris
     summary: | 
       Awarded by HEC Paris for winning the international business challenge.
   - title: Dean's Scholarship
-    date: '2015, 2016'
+    year: '2016'
+    awarder: University of Nottingham
+    summary: |
+      Scholarship awarded for academic excellence.
+  - title: Dean's Scholarship
+    year: '2015'
     awarder: University of Nottingham
     summary: |
       Scholarship awarded for academic excellence.
   - title: State Scholarship
-    date: '2014'
+    year: '2014'
     awarder: China Scholarship Council
     summary: |
       Exchange student scholarship for Chinese students to study at affiliated international universities.
   - title: Sungkyunkwan University Summer School Scholarship
-    date: '2014'
+    year: '2014'
     awarder: Sungkyunkwan University
     summary: |
       Awarded to international students with academic excellence to attend summer school.
   - title: Head's Scholarship
-    date: '2013'
+    year: '2013'
     awarder: University of Nottingham
     summary: |
       Scholarship awarded for academic excellence.
