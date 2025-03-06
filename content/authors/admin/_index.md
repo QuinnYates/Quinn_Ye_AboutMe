@@ -127,7 +127,7 @@ work:
 
 # Skills
 skills:
-  - name: Research & Analytical Skills
+  - name: Technical Skills
     items:
       - name: Quantitative Methods (STATA, R, SPSS)
         description: ''
