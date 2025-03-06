@@ -132,15 +132,15 @@ skills:
       - name: Quantitative Methods (STATA, R, SPSS)
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: code-bracket-square
       - name: Qualitative Methods (Interview, Case Study)
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: chat-bubble-left-right
       - name: Python
         description: ''
         percent: 60
-        icon: code-bracket
+        icon: command-line
   - name: Certifications
     items:
       - name: Certified Management Accountant (all exams passed)
@@ -152,20 +152,16 @@ skills:
     items:
       - name: Singing
         description: ''
-        percent: 60
-        icon: microphone
+        percent: 80
+        icon: musical-note
       - name: Travel
         description: ''
         percent: 100
-        icon: plane
+        icon: globe-europe-africa
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera
-      - name: Dog
-        description: ''
-        percent: 80
-        icon: dog
         
 
 # Languages
