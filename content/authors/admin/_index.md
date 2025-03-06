@@ -141,11 +141,10 @@ skills:
         description: ''
         percent: 60
         icon: command-line
-  - name: Certifications
-    items:
       - name: Certified Management Accountant (all exams passed)
         description: ''
         percent: 100
+        icon: currency-dollar        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
