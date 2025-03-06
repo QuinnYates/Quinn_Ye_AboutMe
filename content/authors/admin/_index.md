@@ -55,13 +55,24 @@ education:
     date_start: 2019-09-01
     date_end: 2025-05-01
     summary: |
-      Research Focus: Venture Capital, Entrepreneurship, Strategy, Innovation, AI, International Business
+      Research Focus: 
+      - Entrepreneurship
+      - Strategy
+      - Innovation
+      - AI
+      - International Business
+      - Venture Capital
   - area: MSc Management (Finance Pathway)
     institution: University College London
     date_start: 2016-09-01
     date_end: 2017-11-30
     summary: |
-      Relevant Courses: Investment Management, Corporate Finance, Mergers & IPO, Strategy, Entrepreneurship
+      Relevant Courses: 
+      - Investment Management
+      - Corporate Finance
+      - Mergers & IPO
+      - Strategy
+      - Entrepreneurship
   - area: BSc (Hons) International Business Management
     institution: University of Nottingham
     date_start: 2012-09-01
