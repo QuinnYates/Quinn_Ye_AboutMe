@@ -182,7 +182,7 @@ awards:
     date: '2019'
     awarder: University of Melbourne
     summary: | 
-     Provides a \$15,000 AUD research enhancement grant for Ph.D. candidates.
+      Provides a \$15,000 AUD research enhancement grant for Ph.D. candidates.
   - title: PhD Best Paper Award
     date: '2022'
     awarder: Department of Management and Marketing, University of Melbourne
@@ -197,7 +197,7 @@ awards:
     date: '2017'
     awarder: HEC Paris
     summary: | 
-    Awarded by HEC Paris for winning the international business challenge.
+      Awarded by HEC Paris for winning the international business challenge.
   - title: Dean's Scholarship
     date: '2015, 2016'
     awarder: University of Nottingham
