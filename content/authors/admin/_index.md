@@ -143,10 +143,6 @@ skills:
         description: ''
         percent: 60
         icon: microphone
-      - name: Piano
-        description: ''
-        percent: 100
-        icon: piano
       - name: Travel
         description: ''
         percent: 100
